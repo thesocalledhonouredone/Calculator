@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: azure;
+    text-align: center;
+    border: solid azure 3px;
+    border-radius: 50px;
+}
+
+h2 {
+    color: azure;
+    font-size: 35px;
+}
+
+p {
+    color: azure;
+    font-size: 50px;
+    margin: 30px;
+    font-weight: bold;
+    
+}
+
+button {
+    padding: 10px;
+    border-radius: 50px;
+    font-weight: bold;
+    width: 100px;
+    font-size: 20px;
+}
+
+#zero, #one, #two, #three, #four, #five, #six, #seven, #eight, #nine {
+    background-color: darkgray;
+}
+
+#plus, #minus, #mul, #mod, #div {
+    background-color: orange;
+}
+ #eval {
+    background-color: orangered;
+ }
